@@ -1,3 +1,3 @@
 # Recherche-Operationnelle
 
-ALGORITHME DE DIJKSTRA en PHP 
+DIJKSTRA ALGORITHM in PHP
